@@ -15,7 +15,7 @@ A simple and easy to use and to deploy budget-friendly Url Shortener for everyon
 
 To deploy YOUR version of **Azure Url Shortener** you could fork this repo, but if you are looking for the easy way just click on the "Deploy to Azure".
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?WT.mc_id=urlshortener-github-frbouche#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FFBoucher%2FAzUrlShortener%2Fmaster%2Fdeployment%2FazureDeploy.json)
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 To have all details and alternative deployment refer to the [Deployment Details](azFunctions-deployment.md) page.
 
@@ -23,9 +23,7 @@ To have all details and alternative deployment refer to the [Deployment Details]
 
 A good Url Shortener wouldn't be completed without a custom domain name. To know how to add it and other useful post-deployment configurations refer to the [post-deployment-configuration](post-deployment-configuration.md) page.
 
-
 ---
-
 
 ## How To Use It
 
@@ -34,18 +32,13 @@ There is many different way to manage your Url Shortener, from a direct HTTP cal
 
 [See the complete list of admin frontends here](src/adminTools/README.md)
 
-
 ---
-
 
 ## How It Works
 
 If you are interested to learn more about what's under the hood, and get more details on each Azure Function, read the [How it works](how-it-works.md) page.
 
-
 ---
-
-
 
 ## Contributing
 
